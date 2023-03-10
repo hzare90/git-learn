@@ -1,1 +1,3 @@
 extra.html
+*.txt
+!c.txt
